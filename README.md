@@ -18,6 +18,7 @@
   <summary align="left">Hit me up 🤜🤛</summary>
   <a href="https://www.linkedin.com/in/acfilho/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/prof_acfilho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/Antonio-Silva-Filho-6" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fpt%2Ficone%2Fresearchgate%2F130843&psig=AOvVaw1FJdaSZkYDA_d1QHsx2vqm&ust=1621389293580000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj45fqP0vACFQAAAAAdAAAAABAD" /></a>
  
 </details>
 </br>
