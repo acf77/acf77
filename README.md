@@ -7,6 +7,12 @@
 <h3><strong>💻✨Aspiring React Native developer</strong></h3>
 </br>
 <ul>
+  
+  <div>
+  <a href="https://github.com/acf77">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acf77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acf77&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <li><h3>😍 ┇Passionate about problem solving, specially through programming anda data analysis</h3></li>
 <li><h3>🤖 ┇Love everything related to Tech in general</h3></li>
