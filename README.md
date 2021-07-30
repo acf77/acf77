@@ -4,7 +4,7 @@
 
 
 
-<h3><strong>💻✨Aspiring React Native developer</strong></h3>
+<h3><strong>Desenvolvedor Mobile | React Native | TypeScript | HTML | CSS</strong></h3>
 </br>
 <ul>
   
