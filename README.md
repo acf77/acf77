@@ -4,7 +4,13 @@
 
 
 
-<h3><strong>Desenvolvedor Mobile | React Native | TypeScript | HTML | CSS</strong></h3>
+<h3><strong>Desenvolvedor Fullstack MERN</strong></h3>
+  
+  <img align="center" alt="acf-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="acf-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="acf-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="acf-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  
 </br>
 <ul>
   
@@ -22,7 +28,7 @@
   <img align="center" alt="acf-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="acf-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="acf-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-      <img align="center" alt="acf-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="acf-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="acf-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
  
 </div>
