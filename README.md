@@ -2,6 +2,8 @@
 </br>
 <h2>My name is Antonio Carlos Filho!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=acf77)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <h3><strong>Desenvolvedor Fullstack MERN</strong></h3>
