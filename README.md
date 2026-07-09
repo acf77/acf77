@@ -27,8 +27,8 @@
 ## 📊 GitHub
 
 <!-- Replace `acfilho` below with your GitHub username if different -->
-![![Stats](https://github-stats-extended.vercel.app/api?username=acf77)](https://github.com/stats-organization/github-stats-extended)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acfilho&layout=compact&hide_border=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=acf77)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=acf77&langs_count=4)
 
 ## 📫 Reach me
 
