@@ -1,62 +1,35 @@
-<h1 align="center"> Hello 🌎!</h1>
-</br>
-<h2>My name is Antonio Carlos Filho!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+# Hi, I'm Antonio Carlos Filho, PhD 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=acf77)](https://github.com/ryo-ma/github-profile-trophy)
+**Senior Frontend Developer & AI Engineer** — I build AI-powered products end-to-end: LLM pipelines, RAG systems, and the React/Next.js frontends that make them usable.
 
+- 🚀 Founder of [**Trapiche Cloud**](https://trapiche.cloud) — Brazilian PaaS + AI Gateway with paying customers. Go API on k3s, OpenAI-compatible endpoint routing DeepSeek, Qwen & Kimi, BRL/PIX billing.
+- 🧪 PhD in Biotechnology — built clinical ML models from scratch (Python/TensorFlow, ECG signal processing) before moving into product engineering.
+- 🛠️ Previously: Tech Lead at Murabei Data Science (grew the team 0 → 8), PayPal.
+- 🌎 Bilingual EN/PT · Remote-friendly · São Luís, Brazil
 
+## 🔨 What I'm building
 
-<h3><strong>Desenvolvedor Fullstack MERN</strong></h3>
-  
-  <img align="center" alt="acf-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">MongoDB
-  <img align="center" alt="acf-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">Express
-  <img align="center" alt="acf-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React
-  <img align="center" alt="acf-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">NodeJS
-  
-</br>
-<ul>
-  
-  <div>
-  <a href="https://github.com/acf77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acf77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acf77&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-    <div style="display: inline_block"><br>
-  <img align="center" alt="acf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="acf-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="acf-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="acf-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="acf-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="acf-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="acf-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="acf-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="acf-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="acf-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
- 
-</div>
+| Project | What it is | Stack |
+|---|---|---|
+| [Trapiche Cloud](https://trapiche.cloud) | PaaS + AI Gateway, LGPD-compliant LLM inference for Brazilian companies | Go, k3s, Next.js, Bifrost, PIX billing |
+| Luup | Agentic CLI — describe a feature, it ships it autonomously | TypeScript, LLM agents |
+| Wisio | AI scientific writing platform with streaming LLM interfaces | Next.js, OpenAI API |
+| TaskZap | WhatsApp task manager powered by LLM date parsing | Node.js, LLMs |
 
-<li><h3>😍 ┇Passionate about problem solving, specially through programming anda data analysis</h3></li>
-<li><h3>🤖 ┇Love everything related to Tech in general</h3></li>
-<li><h3>🔭 ┇Always feeling prompted to take challenges</h3></li>
-<li><h3>😄 ┇Where health and tech meet!</h3></li>
-</ul>
-</br>
-<details align="center">
-  <summary align="left">Hit me up 🤜🤛</summary>
-  <a href="https://www.linkedin.com/in/acfilho/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/prof_acfilho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.researchgate.net/profile/Antonio-Silva-Filho-6" target="_blank"><img src="https://img.shields.io/badge/RG-ResearchGate-brightgreen" /></a>
- 
-</details>
-</br>
-<p align="right"><img src="https://visitor-badge.glitch.me/badge?page_id=github/acf77" /></p>
+## ⚙️ Stack
 
-<!--
-**recieire/recieire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="" />
+**Frontend:** React · Next.js (App Router, RSC) · TypeScript · React Native · Tailwind
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI Engineering:** OpenAI & Claude APIs · LangChain · LangGraph · RAG · Pinecone · pgvector · prompt engineering & evals
+
+**Backend & Infra:** Go · Python · Node.js · Docker · Kubernetes (k3s) · PostgreSQL · CI/CD · Cloudflare
+
+## 📊 GitHub
+
+<!-- Replace `acfilho` below with your GitHub username if different -->
+![Stats](https://github-readme-stats.vercel.app/api?username=acfilho&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acfilho&layout=compact&hide_border=true)
+
+## 📫 Reach me
+
+[Portfolio](https://acfilho.dev) · [LinkedIn](https://www.linkedin.com/in/acfilho) · acfilho@acfilho.dev
