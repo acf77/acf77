@@ -13,7 +13,7 @@
 |---|---|---|
 | [Trapiche Cloud](https://trapiche.cloud) | PaaS + AI Gateway, LGPD-compliant LLM inference for Brazilian companies | Go, k3s, Next.js, Bifrost, PIX billing |
 | Luup | Agentic CLI — describe a feature, it ships it autonomously | TypeScript, LLM agents |
-| Wisio | AI scientific writing platform with streaming LLM interfaces | Next.js, OpenAI API |
+| [wisio](https://wisio.app) | AI scientific writing platform with streaming LLM interfaces | Next.js, OpenAI API |
 | TaskZap | WhatsApp task manager powered by LLM date parsing | Node.js, LLMs |
 
 ## ⚙️ Stack
